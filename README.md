@@ -11,4 +11,4 @@
 
 <br><br>
 
-<img src="https://github.com/marcosvinicius1990/CRONOMETRO/blob/master/WhatsApp%20Image%202022-10-09%20at%2019.58.51.jpeg?raw=true" />
+<img src="https://github.com/marcosvinicius1990/CRONOMETRO/blob/master/print.png?raw=true" />
