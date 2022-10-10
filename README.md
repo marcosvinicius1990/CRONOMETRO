@@ -1,4 +1,5 @@
-<h1>Projeto Cronômetro</h1>
+<h1>Projeto Cronômetro</h1
+<h2>Não Responsivo</h2>
 
 <h3>Neste projeto foi utilizada tecnologias como:</h3>
 
