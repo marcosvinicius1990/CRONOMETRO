@@ -61,3 +61,28 @@ img {
     opacity: 0.5;
 }
 
+@media (max-width: 440px) {
+
+   
+
+    img {
+        margin: 20px;
+        width: 400px;
+        height: 400px;
+    }
+
+    #caixa-numeros {
+        display: flex;
+       
+    }
+
+    #caixa-botoes {
+        margin-left: 27%;
+        display: grid;
+        flex-direction: column;
+        width: 200px;
+        
+        
+    }
+
+}
